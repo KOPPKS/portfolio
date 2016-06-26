@@ -1,0 +1,231 @@
+body  {
+  background: url('images/background.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: black;
+  font-color: black;
+}
+
+.one {
+	position: absolute;
+	right: 70px;
+	top: 5px;
+	font-size: 2.5em;
+	
+}
+
+.ctr {
+  text-align: center;
+  font-size: 9px;
+  font-weight: bold;
+}
+
+.two {
+	position: absolute;
+	right: 70px;
+	top: 60px;
+	font-size: 1.4em;
+}
+
+.three {
+	position: absolute;
+	left: 120px;
+	top: 10px;
+	color: black;
+	background-color: aqua;
+}
+
+.carfind {
+  position: absolute;
+  left: 530px;
+  top: 280px;
+  width: 220px;
+  height: 195px;
+    top-margin: 0px;
+    border-style:solid;
+    border-color: red;
+    border-width:3px;
+    word-wrap: break-word;
+    background-color: #C5EFFD;
+    text-align: justify;
+    margin-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.four {
+	position: absolute;
+	left: 70px;
+	top: 70px;
+	width: 220px;
+	height: 195px;
+  	top-margin: 0px;
+  	border-style:solid;
+  	border-color: red;
+  	border-width:3px;
+  	word-wrap: break-word;
+  	background-color: #C5EFFD;
+  	text-align: justify;
+  	margin-bottom: 1px;
+  	padding-left: 1px;
+  	padding-right: 1px;
+  	padding-top: 5px;
+  	padding-bottom: 0px;
+}
+
+.five {
+	font-size: 11px;
+	font-weight: bolder;
+	margin-top: 1px;
+
+}
+
+.fivefour {
+	font-size: 12px;
+}
+
+.button {
+	display: in-line;
+    text-align: center;
+}
+
+.group {
+  position: absolute;
+  bottom: 30px;
+  right: 20px;
+  border: 0;
+  font-size: 16px;
+}
+
+.fours {
+	margin-top: 1px;
+	text-align: center;
+}
+
+.address {
+	position: absolute;
+	left: 70px;
+	top: 280px;
+	width: 220px;
+	height: 195px;
+  	top-margin: 0px;
+  	border-style:solid;
+  	border-color: red;
+  	border-width:3px;
+  	word-wrap: break-word;
+  	background-color: #C5EFFD;
+  	text-align: justify;
+  	margin-bottom: 1px;
+  	padding-left: 1px;
+  	padding-right: 1px;
+  	padding-top: 5px;
+  	padding-bottom: 3px;
+}
+
+.angular {
+  position: absolute;
+  left: 400px;
+  top: 10px;
+  color: black;
+  background-color: aqua;
+}
+
+.ledger {
+  position: absolute;
+  left: 300px;
+  top: 70px;
+  width: 220px;
+  height: 270px;
+    top-margin: 0px;
+    border-style:solid;
+    border-color: red;
+    border-width:3px;
+    word-wrap: break-word;
+    background-color: #C5EFFD;
+    text-align: justify;
+    margin-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.pricing {
+  position: absolute;
+  left: 530px;
+  top: 70px;
+  width: 220px;
+  height: 195px;
+    top-margin: 0px;
+    border-style:solid;
+    border-color: red;
+    border-width:3px;
+    word-wrap: break-word;
+    background-color: #C5EFFD;
+    text-align: justify;
+    margin-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.react {
+  position: absolute;
+  left: 790px;
+  top: 10px;
+  color: black;
+  background-color: aqua;
+}
+
+.findit {
+  position: absolute;
+  left: 760px;
+  top: 70px;
+  width: 220px;
+  height: 260px;
+    top-margin: 0px;
+    border-style:solid;
+    border-color: red;
+    border-width:3px;
+    word-wrap: break-word;
+    background-color: #C5EFFD;
+    text-align: justify;
+    margin-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.jquery {
+  position: absolute;
+  left: 790px;
+  top: 330px;
+  color: black;
+  background-color: aqua;
+}
+
+.picker {
+  position: absolute;
+  left: 760px;
+  top: 390px;
+  width: 220px;
+  height: 160px;
+    top-margin: 0px;
+    border-style:solid;
+    border-color: red;
+    border-width:3px;
+    word-wrap: break-word;
+    background-color: #C5EFFD;
+    text-align: justify;
+    margin-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
